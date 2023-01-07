@@ -22,7 +22,7 @@ Actually, I Don't Know Any Language Properly. But I Know a Bit Of Python.
 ### **What I Love To Do?**
 I Love to Sleep, Play with My Cat, Listen to Bangla Music, Randomly Visit Github Projects & Write Code (sometimes-,-).
 ### **What Am I Learning?**
-Currently, I'm Learning Nothing, But I Have Plan To Learn **JS** & **Cpp** (and others 👻).
+Currently, I'm Learning Nothing, But I Have Plan To Learn **JS** & **Cpp** (and others).
 ### **I'm Currently Work On**
 I'm Currently Working on [zxc-Userbot](https://github.com/deadboizxc/zxc-Userbot) & Something Other.
 ### **My Github Status**
