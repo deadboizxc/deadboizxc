@@ -15,16 +15,7 @@ Here are some ideas to get you started:
 - âš¡ Fun fact: ...
 -->
 
-# Hello, I'm deadboizxc, And This Is My Github Readme.
-## About Me
-### **How Many Languages I Know?**
-Actually, I Don't Know Any Language Properly. But I Know a Bit Of Python.
-### **What I Love To Do?**
-I Love to Sleep, Play with My Cat, Listen to Bangla Music, Randomly Visit Github Projects & Write Code (sometimes-,-).
-### **What Am I Learning?**
-Currently, I'm Learning Nothing, But I Have Plan To Learn **JS** & **Cpp** (and others).
-### **I'm Currently Work On**
-I'm Currently Working on [zxc-userbot](https://github.com/deadboizxc/zxc-userbot) & Something Other.
+# Hello, I'm deadboizxc, An
 ### **My Github Status**
 ![deadboizxc's github status](https://github-readme-stats.vercel.app/api?username=deadboizxc&show_icons=true&count_private=true&theme=radical&hide_border=false&hide=&include_all_commits=true)
 ### **Most Used Languages**
