@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - âš¡ Fun fact: ...
 -->
 
-# Hello, I'm deadboizxc, An
+# Hello, I'm Alex, An
 ### **My Github Status**
 ![deadboizxc's github status](https://github-readme-stats.vercel.app/api?username=deadboizxc&show_icons=true&count_private=true&theme=radical&hide_border=false&hide=&include_all_commits=true)
 ### **Most Used Languages**
