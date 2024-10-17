@@ -25,6 +25,6 @@ Just Send an Telegram To [Me](https://t.me/deadboizxc)
 
 <h2>Support me</h2> 
 <nav>
-<li><a href=http://patreon.com/user?u=80411041>Patreon</a></li>
+<li><a href=http://patreon.com/deadboizxc>Patreon</a></li>
 
 <li><a href=https://send.monobank.ua/jar/5839hUB6T6>Monobank</a></li>
