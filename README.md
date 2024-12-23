@@ -10,4 +10,4 @@ Just Send an Telegram To [Me](https://t.me/deadboizxc)
 <nav>
 <li><a href=http://patreon.com/user?u=80411041>Patreon</a></li>
 
-<li><a href=https://send.monobank.ua/jar/5839hUB6T6>Monobank</a></li>
+<li><a href=https://send.monobank.ua/jar/7p9A1xDgFm>Monobank</a></li>
