@@ -67,8 +67,12 @@ I break things, reverse them, rebuild them — all for the pure joy of discovery
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deadboizxc&theme=2077" width="340" style="border-radius:14px; margin:10px;"></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deadboizxc&theme=2077" width="340" style="border-radius:14px; margin:10px;"></td>
   </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=deadboizxc&show_icons=true&count_private=true&theme=radical&hide_border=false&hide=&include_all_commits=true"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadboizxc&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=tex,css,php"></td>
+  </tr>
 </table>
-
+ 
 <br/>
 </div>
 
